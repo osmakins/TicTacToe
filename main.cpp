@@ -1,5 +1,5 @@
 
-#include "main.hpp"
+#include "TicTacToeFunctions.cpp"
 
 int main()
 {
